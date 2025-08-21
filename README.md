@@ -1,4 +1,4 @@
 # demo
 This is demo repository.
 <br>
-Auther: Yashada Kardekar
+Auther: Yashada Mahesh Kardekar
